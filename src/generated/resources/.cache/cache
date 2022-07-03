@@ -1,0 +1,8 @@
+f513d9a91a7868f1c5fadcdd97f9d93e581e5d6c assets/weirdstuff/blockstates/cardboard.json
+97902c0f78240700f5b527f2fb2b17c62b43f1f3 assets/weirdstuff/lang/en_us.json
+614ce27ca634d56a2c7e1090d2011c011d71a6e2 assets/weirdstuff/models/block/cardboard.json
+537383927682aa39a8fae1fc029872cdf4a9e3fb assets/weirdstuff/models/item/cardboard.json
+d9fe7b8756ac4d8cf49d785296a7d56c0f8e52b6 data/forge/tags/blocks/ores.json
+d9fe7b8756ac4d8cf49d785296a7d56c0f8e52b6 data/forge/tags/items/ores.json
+d9fe7b8756ac4d8cf49d785296a7d56c0f8e52b6 data/minecraft/tags/blocks/mineable/pickaxe.json
+d9fe7b8756ac4d8cf49d785296a7d56c0f8e52b6 data/minecraft/tags/blocks/needs_iron_tool.json
